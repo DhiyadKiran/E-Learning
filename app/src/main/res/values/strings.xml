@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E-Learning</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Class">
+        <item>Computer</item>
+        <item>Agriculture</item>
+        <item>Maths</item>
+        <item>Physics</item>
+        <item>Engineering</item>
+        <item>Finances</item>
+    </string-array>
+    <string-array name="Type">
+        <item>Group Study</item>
+        <item>Individual Study</item>
+    </string-array>
+</resources>
